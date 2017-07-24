@@ -23,7 +23,6 @@
 Protocol 2
 LoginGraceTime 30
 
-
 # HostKey for protocol version 1
 #HostKey /etc/ssh/ssh_host_key
 # HostKeys for protocol version 2
